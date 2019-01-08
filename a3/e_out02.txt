@@ -1,0 +1,7 @@
+.LM */
+Markdown has been characterised by an informal specification[17] and a reference implementation for conversion to HTML.
+
+.LW %$@
+Markdown implementations have popped up which have mostly been driven by the desire for additional features on top of this base syntax, such as tables, footnotes, definition lists, and Markdown inside HTML blocks, but whose behaviour on typical Markdown diverges in some cases from the reference implementation.
+
+In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark.[30] It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions[31]. GitHub also changed the parser used on their sites accordingly, which required some documents to be changed, e.g. a space after the hash signs of a heading is now required.

@@ -1,0 +1,3 @@
+
+AttributeError: The input name (assign3/tests/e_in01) is not valid, please use a .txt file
+
