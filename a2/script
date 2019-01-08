@@ -1,0 +1,13 @@
+#!/bin/bash
+
+BIN="python3 uvroff.py"
+DIFFBIN=/usr/bin/diff
+TESTDIR=/home/allanliu/SENG265/allanliu/a2/tests
+
+for i in 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20
+do
+
+	echo testing input  $i
+	$BIN $TESTDIR/in$i.txt | $DIFFBIN $TESTDIR/out$i.txt -
+
+done
