@@ -1,0 +1,26 @@
+Number of words: 83603
+Word length 01 = 2944
+Word length 02 = 13064
+Word length 03 = 19949
+Word length 04 = 13653
+Word length 05 = 10121
+Word length 06 = 7879
+Word length 07 = 6445
+Word length 08 = 4063
+Word length 09 = 2707
+Word length 10 = 1468
+Word length 11 = 686
+Word length 12 = 386
+Word length 13 = 162
+Word length 14 = 43
+Word length 15 = 15
+Word length 16 = 6
+Word length 17 = 3
+Word length 19 = 1
+Word length 20 = 1
+Word length 21 = 2
+Word length 23 = 1
+Word length 24 = 1
+Word length 29 = 1
+Word length 30 = 1
+Word length 36 = 1
